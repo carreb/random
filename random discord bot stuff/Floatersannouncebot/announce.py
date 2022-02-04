@@ -30,4 +30,4 @@ async def reply(ctx):
   message = await channel.fetch_message(916078944955015169)
   await message.reply("https://discord.com/events/712066956911575042/915976152034730024")
 
-bot.run("NzM5NDg5NjE3MTA3MjIyNjUy.XybNXw.ccAx_c05cIpdSO7k9NxsPcSMpnY")
+bot.run("token")
