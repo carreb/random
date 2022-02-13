@@ -22,4 +22,4 @@ async def sendembed(ctx):
           await channel.send(embed=incomingmessage)
 
 
-bot.run("NzM5NDg5NjE3MTA3MjIyNjUy.XybNXw.ccAx_c05cIpdSO7k9NxsPcSMpnY")
+bot.run("token")

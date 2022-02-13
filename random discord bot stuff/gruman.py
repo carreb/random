@@ -36,4 +36,4 @@ async def on_message(message):
             redstonetrue = secrets.choice(sexo)
             await message.reply("https://media.discordapp.net/attachments/444215237940346883/937510300662513734/caption.png?width=501&height=702")
 
-bot.run("NzM5NDg5NjE3MTA3MjIyNjUy.XybNXw.ccAx_c05cIpdSO7k9NxsPcSMpnY")
+bot.run("token")
