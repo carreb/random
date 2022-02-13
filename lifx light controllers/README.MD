@@ -1,0 +1,3 @@
+# lifx light controllers
+* tilechain falling rainbow - modified version of the example file from lifxlan python package that allows the user to press buttons to change the color of the lights to blue for differing amounts of time depending on the button pressed. used for a school video project  
+i felt it was important to exclaim that the above file was not entirely made by me and only a tiny portion of it was.
